@@ -2,6 +2,14 @@
 Building things, breaking things, and staying curious about how technology works — learning, experimenting, and getting better with every commit. ⚡💻<br>
 
 
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydXZzdmFqc3JobDR0em12MDhsdjJ4Z2Q3YmUyNmdjaHlvY2RoMnFuYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Cool Animation" width="500">
+</p>
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tarun08782) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-karma-581a043b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunkarma54@gmail.com) 
 
